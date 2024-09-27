@@ -1,0 +1,9 @@
+{
+    "environment": "cp-suo-530",
+    "isSandbox": false,
+    "auth": {
+        "user": "",
+        "pass": ""
+    },
+    "startingDirectory": "test"
+}
